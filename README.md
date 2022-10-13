@@ -13,7 +13,7 @@
 <link rel="stylesheet" type="text/css" href="stylesheet.css" title="Style">
 <script type="text/javascript">window.location.replace('index.html')</script>
 <noscript>
-<meta http-equiv="Refresh" content="0;edu/sjsu/assignment3/package-summary.html">
+<meta http-equiv="Refresh" content="0;index.html">
 </noscript>
 </head>
 <body class="index-redirect-page">
@@ -21,7 +21,7 @@
 <noscript>
 <p>JavaScript is disabled on your browser.</p>
 </noscript>
-<p><a href="edu/sjsu/assignment3/package-summary.html">edu/sjsu/assignment3/package-summary.html</a></p>
+<p><a href="index.html">index.html</a></p>
 </main>
 </body>
 </html>
