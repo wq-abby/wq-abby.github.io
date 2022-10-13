@@ -11,7 +11,7 @@
 <meta name="generator" content="javadoc/IndexRedirectWriter">
 <link rel="canonical" href="edu/sjsu/assignment3/package-summary.html">
 <link rel="stylesheet" type="text/css" href="stylesheet.css" title="Style">
-<script type="text/javascript">window.location.replace('edu/sjsu/assignment3/package-summary.html')</script>
+<script type="text/javascript">window.location.replace('index.html')</script>
 <noscript>
 <meta http-equiv="Refresh" content="0;edu/sjsu/assignment3/package-summary.html">
 </noscript>
